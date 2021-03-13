@@ -8,3 +8,5 @@ Most of my projects are going to either be in:
  - C#
 
 I plan to port most of my favourite projects to C# if I can.
+
+![Doge Loaf](https://github.com/MyBadProjects/MyBadProjects/blob/main/dogeloaf.png?raw=true)
