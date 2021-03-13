@@ -6,3 +6,5 @@ Most of my projects are going to either be in:
  - Python
  - Javascript
  - C#
+
+I plan to port most of my favourite projects to C# if I can.
